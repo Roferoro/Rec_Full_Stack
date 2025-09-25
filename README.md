@@ -20,6 +20,8 @@ e possui um CRUD simples(GET, POST, PUT, DELETE).
 3. Com visual code aberto vamos instalar as dependencia **express**, abra o CMD e digite o seguinte comando **"npm i express"**:
 4. Para inciar o servidor digite no CMD o seguinte comando **"node index.js"**;
 
+---
+
 ## 4. Rotas disponíveis da API
 
 | **Método** |**Rota**        |**O que faz**                                                  |
@@ -28,3 +30,21 @@ e possui um CRUD simples(GET, POST, PUT, DELETE).
 | **POST**   | `/tarefas`     | Cria uma nova tarefa                                          |
 | **PUT**    | `/tarefas/:id` | Atualiza uma tarefa existente pelo seu ID                     |
 | **DELETE** | `/tarefas/:id` | Exclui uma tarefa existente pelo seu ID                       |
+
+---
+
+#5. Exemplo de JSON que pode ser usado
+Exemplo de JSON para criar uma nova tarefa (POST):
+
+{
+  "titulo": "Estudar para Prova",
+  "descricao": "banco de dados e Estrutura de Dados"
+}
+Exemplo de JSON para atualizar uma tarefa (PUT):
+{
+  "titulo": "Compras do Mês",
+  "descricao": "Feijão, Arroz e Batata",
+  "concluida": true
+}
+
+
