@@ -51,5 +51,7 @@ e possui um CRUD simples(GET, POST, PUT, DELETE).
 ## 6. Tutorial de como testar no Postman
 1. Faça o dowload do Postman <a href="https://www.postman.com/downloads/">Site Postman</a>;
 2. Após ter instalado abra a aplicação e faça o login com uma conta Google ou crie um novo cadastro.
-3. Depois de logar você vai iniciar na homepage, no canto superior esquerdo vai haver um botão de **"+"** você deve apertalo. 
+3. Depois de logar você vai iniciar na homepage, no canto superior esquerdo vai haver um botão de **"+"** você deve apertalo.
+4. Logo em seguida você sera redirecionado para o workplace, você deve clicar no body e selecionar a opção **ROW** na caixa de seleção.
+5. 
 
