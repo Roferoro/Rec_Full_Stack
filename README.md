@@ -21,3 +21,10 @@ e possui um CRUD simples(GET, POST, PUT, DELETE).
 4. Para inciar o servidor digite no CMD o seguinte comando **"node index.js"**;
 
 ## 4. Rotas disponíveis da API
+
+| **Método** |** Rota**       |** O que faz**                                                 |
+| ---------- | -------------- | ------------------------------------------------------------- |
+| **GET**    | `/tarefas`     | Lista todas as tarefas cadastradas                            |
+| **POST**   | `/tarefas`     | Cria uma nova tarefa                                          |
+| **PUT**    | `/tarefas/:id` | Atualiza uma tarefa existente pelo seu ID                     |
+| **DELETE** | `/tarefas/:id` | Exclui uma tarefa existente pelo seu ID                       |
