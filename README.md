@@ -22,7 +22,7 @@ e possui um CRUD simples(GET, POST, PUT, DELETE).
 
 ## 4. Rotas disponíveis da API
 
-| **Método** |** Rota**       |** O que faz**                                                 |
+| **Método** |**Rota**        |**O que faz**                                                  |
 | ---------- | -------------- | ------------------------------------------------------------- |
 | **GET**    | `/tarefas`     | Lista todas as tarefas cadastradas                            |
 | **POST**   | `/tarefas`     | Cria uma nova tarefa                                          |
