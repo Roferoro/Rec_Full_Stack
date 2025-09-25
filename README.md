@@ -53,5 +53,6 @@ e possui um CRUD simples(GET, POST, PUT, DELETE).
 2. Após ter instalado abra a aplicação e faça o login com uma conta Google ou crie um novo cadastro.
 3. Depois de logar você vai iniciar na homepage, no canto superior esquerdo vai haver um botão de **"+"** você deve apertalo.
 4. Logo em seguida você sera redirecionado para o workplace, você deve clicar no body e selecionar a opção **ROW** na caixa de seleção.
-5. 
+5. Após ter feito as instruções acima, você vai se deparar com uma caixa de seleção escrito GET onde tentro tem as outras opções de rota (POST, PUT e DELETE), do lado tem uma caixa de texto onde você deve colocar a URL para GET e POST **"http://localhost:3000/tarefas"**. e http://localhost:3000/N (Altere o **"N"** pelo numero de id).
+6. E Pronto a API está configurada para uso.
 
