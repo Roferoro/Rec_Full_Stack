@@ -47,6 +47,14 @@ e possui um CRUD simples(GET, POST, PUT, DELETE).
  "concluida": true  
 }  
 
+**Exemplo de JSON para atualizar uma tarefa (DELETE):**  
+{  
+  "id": 3,  
+  "titulo": "Estudar Node.js",  
+  "descricao": "Ler sobre Express e APIs REST",  
+  "concluida": false  
+}  
+
 ---
 ## 6. Tutorial de como testar no Postman
 1. Faça o dowload do Postman <a href="https://www.postman.com/downloads/">Site Postman</a>;
