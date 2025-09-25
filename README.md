@@ -15,7 +15,7 @@ e possui um CRUD simples(GET, POST, PUT, DELETE).
 ---
 
 ## 3. Instalação das Dependências
-1. Baixe o repositório, extraia o arquivo em seguida abra a pasta no Visual Code.
+1. Faça o download do repositório, extraia o arquivo em seguida abra a pasta no Visual Code.
 2. Com visual code aberto vamos instalar as dependencia **node.js**, abra o CMD e digite o seguinte comando **"npm i node.js"**:
 3. Com visual code aberto vamos instalar as dependencia **express**, abra o CMD e digite o seguinte comando **"npm i express"**:
 4. Para inciar o servidor digite no CMD o seguinte comando **"node index.js"**;
