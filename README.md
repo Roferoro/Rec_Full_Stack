@@ -47,7 +47,7 @@ e possui um CRUD simples(GET, POST, PUT, DELETE).
  "concluida": true  
 }  
 
-**Exemplo de JSON para atualizar uma tarefa (DELETE):**  
+**Exemplo de JSON para deletar uma tarefa (DELETE):**  
 {  
   "id": 3,  
   "titulo": "Estudar Node.js",  
