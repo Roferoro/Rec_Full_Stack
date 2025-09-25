@@ -35,11 +35,11 @@ e possui um CRUD simples(GET, POST, PUT, DELETE).
 
 #5. Exemplo de JSON que pode ser usado
 Exemplo de JSON para criar uma nova tarefa (POST):
-
 {
   "titulo": "Estudar para Prova",
   "descricao": "banco de dados e Estrutura de Dados"
 }
+---
 Exemplo de JSON para atualizar uma tarefa (PUT):
 {
   "titulo": "Compras do Mês",
