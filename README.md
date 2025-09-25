@@ -1,7 +1,7 @@
 # Projeto: API REST de Lista de Tarefas
 
 ## 1. Descrição do Projeto
-Uma API REST desenvolvida em Node.js e Express, a mesma foi desenvolvida para gerenciar uma lista de tarefas(To-do list) com um armazenamento na memória
+Uma API REST desenvolvida em Node.js e Express, a mesma foi desenvolvida para gerenciar uma lista de tarefas com um armazenamento na memória
 e possui um CRUD simples(GET, POST, PUT, DELETE).
 
 ---
